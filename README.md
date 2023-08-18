@@ -1,4 +1,4 @@
-# CUI Graduate Handbook2023
+# CUI Graduate Handbook 2023
 This repository contains the updated Graduate Handbook, various graduate-related forms and document templates for synopsis and thesis.
 
 ## Todo
